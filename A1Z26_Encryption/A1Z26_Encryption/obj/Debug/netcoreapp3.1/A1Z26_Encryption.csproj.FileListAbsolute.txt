@@ -1,0 +1,11 @@
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\bin\Debug\netcoreapp3.1\A1Z26_Encryption.exe
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\bin\Debug\netcoreapp3.1\A1Z26_Encryption.deps.json
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\bin\Debug\netcoreapp3.1\A1Z26_Encryption.runtimeconfig.json
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\bin\Debug\netcoreapp3.1\A1Z26_Encryption.runtimeconfig.dev.json
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\bin\Debug\netcoreapp3.1\A1Z26_Encryption.dll
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\bin\Debug\netcoreapp3.1\A1Z26_Encryption.pdb
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\obj\Debug\netcoreapp3.1\A1Z26_Encryption.csprojAssemblyReference.cache
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\obj\Debug\netcoreapp3.1\A1Z26_Encryption.AssemblyInfoInputs.cache
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\obj\Debug\netcoreapp3.1\A1Z26_Encryption.AssemblyInfo.cs
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\obj\Debug\netcoreapp3.1\A1Z26_Encryption.dll
+C:\Users\Mike Sal\source\repos\A1Z26_Encryption\A1Z26_Encryption\obj\Debug\netcoreapp3.1\A1Z26_Encryption.pdb
